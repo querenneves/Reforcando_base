@@ -1,0 +1,18 @@
+Algoritmo "CalculoMedia"
+
+Var
+// Declaração de variáveis
+num1: inteiro
+num2: inteiro
+media: real
+
+Inicio 
+// Comandos, procedimentos, funções, operadores.
+escreval("Digite um número")
+leia(num1)
+escreval("Digite outro número")
+leia(num2)
+media<-(num1+num2)/2
+escreval(media)
+
+Fim
